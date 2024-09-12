@@ -1,4 +1,5 @@
 #!/bin/bash
+#This tool is made for educational purposes only for project work.
 
 #Mentioning color codes for the tool
 
