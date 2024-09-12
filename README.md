@@ -22,5 +22,5 @@ Portify is a simple Bash-based port scanning tool that uses `nmap` to scan a ran
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/portify.git
+   git clone https://github.com/nareshnarayanofficial/portify.git
    cd portify
