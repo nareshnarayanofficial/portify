@@ -5,8 +5,8 @@
 
 #Mentioning color codes for the tool
 
-PORT-SCANNING-TOOL='\033[0;31m'
-NARESHNARAYAN='\033[0m'
+PORT-SCANNING-TOOL="\033[0;31m"
+NARESHNARAYAN="\033[0m"
 
 echo " __     ___    ___    _______   _   ____  __    _
 echo "|   \  / _ \  |  _ \ |__   __| | | |  __| \ \  / /
