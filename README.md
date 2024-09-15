@@ -7,15 +7,19 @@ Portify is a simple Bash-based port scanning tool that uses `nmap` to scan a ran
 - Scan a range of IP addresses for open ports.
 - Specify port ranges to scan.
 - Identify services running on open ports using `nmap`'s version detection feature.
-- Lightweight and fast, running entirely from a Bash script.
 
 ## Requirements
 
 - **nmap**: Ensure `nmap` is installed on your system.
-  - Install via package manager:
+  - Install directly via package manager:
     ```bash
-    sudo apt install nmap   # On Debian-based systems
+    sudo apt install nmap
 
+    ```
+  - Install via `requirements.sh` script:
+    ```bash
+    bash requirements.sh
+    
     ```
 
 ## Usage
@@ -24,3 +28,5 @@ Portify is a simple Bash-based port scanning tool that uses `nmap` to scan a ran
    ```bash
    git clone https://github.com/nareshnarayanofficial/portify.git
    cd portify
+   sh requirements.sh
+   bash portify.sh
