@@ -2,6 +2,9 @@
 
 Portify is a simple Bash-based port scanning tool that uses `nmap` to scan a range of IP addresses for open ports and identifies common services running on them.
 
+![Screenshot 2024-09-16 004116](https://github.com/user-attachments/assets/2371d765-3c9d-468f-b45e-399cdb642e59)
+
+
 ## Features
 
 - Scan a range of IP addresses for open ports.
